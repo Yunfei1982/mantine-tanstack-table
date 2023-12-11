@@ -1,0 +1,24 @@
+{
+  "name": "mantine-tanstack-table",
+  "version": "0.0.0",
+  "description": "A feature-rich and user-friendly data table component, Built on top of TanStack React Table and Mantine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yunfei1982/mantine-tanstack-table.git"
+  },
+  "keywords": [
+    "mantine",
+    "tanstack",
+    "table"
+  ],
+  "author": "Yunfei1982",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yunfei1982/mantine-tanstack-table/issues"
+  },
+  "homepage": "https://github.com/Yunfei1982/mantine-tanstack-table#readme"
+}

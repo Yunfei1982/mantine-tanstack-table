@@ -1,0 +1,3 @@
+# mantine-tanstack-table
+
+By combining the powerful TanStack React Table and Mantine component libraries, we've crafted a feature-rich and user-friendly data table component. This component not only offers the flexibility and robust data processing capabilities of TanStack React Table but also leverages Mantine's elegant UI and easily customizable components. Users can effortlessly implement data sorting, filtering, and pagination, all while enjoying Mantine's sleek design and extensive theme customization options. This integration provides developers with endless possibilities, enabling them to showcase and manage complex datasets in an efficient and elegant manner.
